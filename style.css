@@ -3,7 +3,9 @@ css syntax
 selector{property:value;} */
 body{
     background-color: rgb(127, 125, 125);
-
+}
+img:hover{
+    background color:gold; 
 }
 hr{
     
