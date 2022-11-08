@@ -1,0 +1,39 @@
+/* external css
+css syntax
+selector{property:value;} */
+body{
+    background-color: rgb(127, 125, 125);
+
+}
+hr{
+    
+    border-width: 2px;
+    border-color: rgb(226, 43, 43);
+    border-style: dotted;
+    border-width: 50%;
+}
+h1{
+    font-style:oblique;
+    font-display:unset;
+    color:#66bfbf;
+}
+h3{
+    color:#66bfbf;
+    font-weight: 200;
+    font-style: initial;
+    width: 40%;
+    border-color: rgb(17, 18, 18);
+    border-width: 50px;
+}
+p{
+    color: rgb(240, 221, 9);
+}
+ul{
+    color: aquamarine;
+}
+th{
+    font-style: italic;
+}
+td{
+    color: rgb(45, 121, 169);
+}
